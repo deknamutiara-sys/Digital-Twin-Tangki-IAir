@@ -1,0 +1,5 @@
+"Perancangan Digital Twin Tangki Air untuk Monitoring Ketinggian dan Kondisi Air Secara Real-Time"
+
+1. Latar Belakang
+
+Pemantauan tangki air (rumah tangga, gedung, kampus, maupun industri kecil) umumnya masih dilakukan secara manual, yaitu dengan mengecek langsung ke tangki. Cara ini menimbulkan beberapa masalah: air meluap atau habis tanpa disadari, pompa menyala terus atau terlambat menyala, kualitas air menurun (keruh, suhu tidak normal, TDS tinggi) tanpa terdeteksi, serta tidak ada riwayat data yang bisa dianalisis. Diperlukan sistem yang mampu merepresentasikan kondisi tangki fisik secara digital (*digital twin*) dan memantaunya secara real-time agar pengelolaan air lebih efisien, aman, dan terdokumentasi.
